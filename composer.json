@@ -1,0 +1,38 @@
+{
+  "name": "limonte/google-safebrowsing",
+  "description": "Check if link is spam via Google Safebrowsing",
+  "keywords": [
+    "spam checker",
+    "malware detector",
+    "phishing checker",
+    "scam detector",
+    "spam checker",
+    "spam link",
+    "link checker",
+    "Google Safebrowsing"
+  ],
+  "homepage": "https://github.com/limonte/google-safebrowsing",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Limon Monte",
+      "email": "limon.monte@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "~5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Limonte\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Limonte\\Tests\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
