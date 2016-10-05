@@ -1,6 +1,5 @@
 [![Build Status](https://semaphoreci.com/api/v1/limonte/google-safebrowsing/branches/master/badge.svg)](https://semaphoreci.com/limonte/google-safebrowsing)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/?branch=master)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
 # Google Safebrowsing PHP library, check if link is suspicious
 
