@@ -1,7 +1,8 @@
-[![Build Status](https://semaphoreci.com/api/v1/limonte/google-safebrowsing/branches/master/badge.svg)](https://semaphoreci.com/limonte/google-safebrowsing)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/?branch=master)
-
 # Google Safebrowsing PHP library, check if link is suspicious
+
+[![Build Status](https://travis-ci.org/limonte/google-safebrowsing.svg?branch=master)](https://travis-ci.org/limonte/google-safebrowsing)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/limonte/google-safebrowsing/?branch=master)
 
 ## Usage:
 
