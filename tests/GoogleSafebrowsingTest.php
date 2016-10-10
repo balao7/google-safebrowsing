@@ -27,4 +27,12 @@ class GoogleSafebrowsingTest extends \PHPUnit_Framework_TestCase
             $this->checker->check('http://gfx.glittergraphicsnow.com')
         );
     }
+
+    /**
+     * @expectedException Exception
+     */
+    public function testInvalidUrl()
+    {
+        $this->checker->check('invalid URL');
+    }
 }
