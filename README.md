@@ -21,3 +21,9 @@ if ($status === GoogleSafebrowsing::SUSPICIOUS) {
     // link is suspicious - malware, spam or dangerous
 }
 ```
+
+## Related libraries:
+
+- Check if link is SPAM: [limonte/spam-link-analyser](https://github.com/limonte/spam-link-analyser)
+- McAfee SiteAdvisor PHP library: [limonte/mcafee-siteadvisor](https://github.com/limonte/mcafee-siteadvisor)
+- PHP parser for Adblock Plus filters: [limonte/php-adblock-parser](https://github.com/limonte/php-adblock-parser)
